@@ -7,7 +7,7 @@ import org.example.core.ui.AbstractPage;
 public class Home extends AbstractPage {
 
     /**
-     * This only works for Courses and Groups
+     * This only works for Courses and Groups.
      * Resources and More menu has another behavior.
      *
      * @param menuName {courses or groups}
